@@ -31,5 +31,5 @@ This project focuses on analyzing **multi-band Sentinel-2 satellite imagery** to
 - Matplotlib
 - Plotly
 
-## 📁 Repository Structure
+
 
